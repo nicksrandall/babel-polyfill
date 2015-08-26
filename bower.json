@@ -1,9 +1,10 @@
 {
   "name": "babel-polyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/nicksrandall/babel-polyfill",
   "authors": [
-    "Nick Randall <nick.randall@domo.com>"
+    "Nick Randall <nick.randall@domo.com>",
+    "Esteban Arango Medina <marranoparael31@gmail.com>"
   ],
   "description": "A stand alone browser polyfill for babel",
   "main": "browser-polyfill.js",
