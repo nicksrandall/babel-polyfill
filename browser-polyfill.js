@@ -2478,7 +2478,7 @@
                 keyOf = require("./$.keyof"),
                 has = $.has,
                 hide = $.hide,
-                getNames = $.getNames,
+                getNames = require('./$.get-names'),
                 toObject = $.toObject,
                 Symbol = $.g.Symbol,
                 Base = Symbol,
@@ -2555,7 +2555,8 @@
             "./$.def": 11,
             "./$.keyof": 17,
             "./$.uid": 25,
-            "./$.wks": 27
+            "./$.wks": 27,
+            "./$.get-names": 74
         }
     ],
     60: [
